@@ -11,7 +11,7 @@ such as an LED, buzzer, or alarm.
 
 ## Components Used
 - Motion Sensor (PIR Sensor)
-- IC (if applicable)
+- IC 
 - LED
 - Resistors
 - Power Supply
